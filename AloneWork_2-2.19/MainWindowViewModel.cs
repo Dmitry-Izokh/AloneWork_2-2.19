@@ -36,7 +36,7 @@ namespace AloneWork_2_2._19
             get => circumference;
             set
             {
-                radius = value;
+                circumference = value;
                 OnPropertyChaged();
             }
         }
